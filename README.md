@@ -1,4 +1,4 @@
-# Fase1-230520-StrettediCocciglia ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230520-strettedicocciglia_1067180))
+# Fase1-230520-StrettediCocciglia ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230520-strettedicocciglia_1067180?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
 Sopralluogo nel comune di Bagni di Lucca, nella zona delle Strette di Cocciglia, lungo il torrente Lima
 ## Percorso: Ponte Nero - Strette di Cocciglia
 [<img src='/vignettes/HnP7dyGs.jpg' width='250'/>](/vignettes/HnP7dyGs.jpg) 
