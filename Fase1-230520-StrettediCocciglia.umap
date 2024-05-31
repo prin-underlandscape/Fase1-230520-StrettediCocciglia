@@ -59,6 +59,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           },
           "style": {
@@ -825,7 +826,7 @@
         "color": "Brown",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n##   [[{GitHubURL}|GitHub repository]] \n{Descrizione}\n--- \n**Lunghezza** (km): {Lunghezza}\n**Durata**: {Durata}\n**Dislivello in salita** (m): {Dislivello in salita}\n**Dislivello in discesa** (m): {Dislivello in discesa} \n--- \nRegistrato il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -851,11 +852,15 @@
             "Strumento": "Android HUAWEI SNE-LX1",
             "Data": "2023-05-20",
             "Ora": "12:59:01",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Grotta",
+            "Altri tag": [],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Sienna",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/star.svg"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           }
         },
@@ -884,6 +889,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           }
         },
@@ -907,11 +913,15 @@
             "Strumento": "Android HUAWEI SNE-LX1",
             "Data": "2023-05-20",
             "Ora": "11:26:55",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Grotta",
+            "Altri tag": [],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Sienna",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/star.svg"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           }
         },
@@ -940,6 +950,7 @@
             "_umap_options": {
               "popupTemplate": "Default"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           }
         },
@@ -963,11 +974,15 @@
             "Strumento": "Android HUAWEI SNE-LX1",
             "Data": "2023-05-20",
             "Ora": "13:44:35",
-            "Tag primario": "",
-            "Altri tag": "",
+            "Tag primario": "Grotta",
+            "Altri tag": [],
             "_umap_options": {
-              "popupTemplate": "Default"
+              "popupTemplate": "Default",
+              "color": "Sienna",
+              "iconClass": "Drop",
+              "iconUrl": "/uploads/pictogram/star.svg"
             },
+            "GitHubURL": "https://github.com/prin-underlandscape/Fase1-230520-StrettediCocciglia",
             "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/20-maggio-2023-gioviano-e-strette-di-cocciglia"
           }
         }
@@ -981,7 +996,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo}\n{{{Foto}|300}} \n##   [[{GitHubURL}|GitHub repository]] \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -996,7 +1011,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n \n{Testo} \n \nFID: {fid}"
+        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n## [[{GitHubURL}|GitHub repository]] \n{Testo} \n \nFID: {fid}"
       }
     },
     {
@@ -1011,7 +1026,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n##   [[{GitHubURL}|GitHub repository]] \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
       }
     }
   ],
