@@ -18,5 +18,5 @@ Sopralluogo nel comune di Bagni di Lucca, nella zona delle Strette di Cocciglia,
 [<img src='/vignettes/5ytFhmRR.jpg' width='250'/>](/vignettes/5ytFhmRR.jpg) 
 
 **Piccolo riparo poco profondo, leggermente in discesa, localizzato a est della Grotta di Giardinetto, all'interno della stessa proprietà privata**
-## POI: Grotta delle strette di Cocciglia
+## POI: Grotta delle Strette di Cocciglia
 **Grotta posta sulla sinistra della Lima all'altezza delle Strette di Cocciglia, posta sopra importante apprestamento in muratura dell'acquedotto. Tra la folta vegetazione si intravede una grande apertura; seguono altre aperture meno profonde.**
