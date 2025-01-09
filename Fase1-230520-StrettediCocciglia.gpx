@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.038316" lon="10.662325">
+    <ele>500</ele>
+    <name>Grotta di Ponte Nero</name>
+    <desc>Grotta con due camere, localizzata sulla SS 12 del Brennero, dal lato opposto a Ponte Nero, dietro un edificio in abbandono in terreno privato</desc>
+  </wpt>
+  <wpt lat="44.04049" lon="10.663438">
+    <ele>500</ele>
+    <name>Riparo sotto roccia</name>
+    <desc>Piccolo riparo con molto interro, lungo sentiero sulla sinistra della Lima, all'interno del Canyon Park</desc>
+  </wpt>
+  <wpt lat="44.044059" lon="10.673175">
+    <ele>500</ele>
+    <name>Grotta di Giardinetto</name>
+    <desc>Grotta localizzata lungo la SS 12 del Brennero, all'interno di una proprietà privata, oggi utilizzata come rimessa</desc>
+  </wpt>
+  <wpt lat="44.044488" lon="10.673583">
+    <ele>500</ele>
+    <name>Riparo sotto roccia Giardinetto</name>
+    <desc>Piccolo riparo poco profondo, leggermente in discesa, localizzato a est della Grotta di Giardinetto, all'interno della stessa proprietà privata</desc>
+  </wpt>
+  <wpt lat="44.0414" lon="10.664308">
+    <ele>500</ele>
+    <name>Grotta delle Strette di Cocciglia</name>
+    <desc>Grotta posta sulla sinistra della Lima all'altezza delle Strette di Cocciglia, posta sopra importante apprestamento in muratura dell'acquedotto. Tra la folta vegetazione si intravede una grande apertura; seguono altre aperture meno profonde.</desc>
+  </wpt>
+  <trk>
+    <name>Ponte Nero - Strette di Cocciglia</name>
+    <desc>La traccia coincide nella prima parte con il percorso attrezzato di Canyon Park che inzia dopo il Ponte Nero, sulla sinistra; prosegue lungo la sponda della Lima</desc>
+    <trkseg>
+      <trkpt lat="[10.663191, 44.037611, 302, 1684588231]" lon="[10.663226, 44.037682, 306.1090087890625, 1684588224]">
+        <ele>[10.663193, 44.037621, 300.9498596191406, 1684588233]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
